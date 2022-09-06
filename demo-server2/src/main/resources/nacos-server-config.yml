@@ -1,0 +1,6 @@
+# nacos 服务地址
+serverAddr: "106.52.80.63:8848"
+# nacos 命名空间
+namespace: "dev"
+# nacos 分组
+group: "dev2"

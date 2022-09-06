@@ -10,7 +10,8 @@
     <version>0.9</version>
     <modules>
         <module>demo-api</module>
-        <module>demo-server</module>
+        <module>demo-server1</module>
+        <module>demo-server2</module>
         <module>demo-client</module>
     </modules>
 
